@@ -1,112 +1,32 @@
-\# 🍱 W.A Marmitex
+# 🍱 W.A Marmitex
 
+Landing Page desenvolvida para o restaurante **W.A Marmitex**.
 
+Projeto utilizado como laboratório de estudos em **Docker, AWS, Terraform e CI/CD**.
 
-Landing Page desenvolvida para o restaurante \*\*W.A Marmitex\*\*.
+📍 Deploy realizado na AWS utilizando Docker, Amazon ECR e Amazon EC2.
 
+---
 
+## 🚀 Stack
 
-Além do front-end, este projeto evolui como laboratório de estudos em \*\*Docker, AWS, Terraform e CI/CD\*\*.
+**Frontend:** HTML • CSS • JavaScript
 
+**DevOps:** Docker • Amazon ECR • Amazon EC2 • AWS CLI • SSH
 
+---
 
-\---
+## 📌 Roadmap
 
+- ✅ Docker
+- ✅ Amazon ECR
+- ✅ Amazon EC2
+- 🔜 Terraform
+- 🔜 GitHub Actions
+- 🔜 CI/CD
 
+---
 
-\## 🚀 Stack
+## 👨‍💻 Autor
 
-
-
-\*\*Frontend\*\*
-
-
-
-\- HTML
-
-\- CSS
-
-\- JavaScript
-
-
-
-\*\*DevOps\*\*
-
-
-
-\- Docker
-
-\- Amazon ECR
-
-\- Amazon EC2
-
-\- AWS CLI
-
-\- SSH
-
-
-
-\---
-
-
-
-\## ☁️ Deploy
-
-
-
-```
-
-GitHub
-
-&#x20;   │
-
-Docker
-
-&#x20;   │
-
-Amazon ECR
-
-&#x20;   │
-
-Amazon EC2
-
-&#x20;   │
-
-🌐 Landing Page
-
-```
-
-
-
-\---
-
-
-
-\## 📌 Roadmap
-
-
-
-\- ✅ Docker
-
-\- ✅ Amazon ECR
-
-\- ✅ Amazon EC2
-
-\- 🔜 Terraform
-
-\- 🔜 GitHub Actions
-
-\- 🔜 CI/CD
-
-
-
-\---
-
-
-
-\## 👨‍💻 Autor
-
-
-
-\*\*Edilson Antonio dos Santos Junior\*\*
-
+Edilson Antonio dos Santos Junior
