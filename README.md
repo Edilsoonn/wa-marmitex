@@ -1,176 +1,112 @@
-# \# 🍱 W.A Marmitex
+\# 🍱 W.A Marmitex
 
-# 
 
-# Landing Page desenvolvida para o restaurante \*\*W.A Marmitex\*\*.
 
-# 
+Landing Page desenvolvida para o restaurante \*\*W.A Marmitex\*\*.
 
-# Este projeto também é utilizado como laboratório de estudos em \*\*DevOps\*\*, evoluindo gradualmente com Docker, AWS, Terraform e CI/CD.
 
-# 
 
-# \---
+Além do front-end, este projeto evolui como laboratório de estudos em \*\*Docker, AWS, Terraform e CI/CD\*\*.
 
-# 
 
-# \## 🚀 Tecnologias
 
-# 
+\---
 
-# \### Front-end
 
-# 
 
-# \- HTML5
+\## 🚀 Stack
 
-# \- CSS3
 
-# \- JavaScript
 
-# 
+\*\*Frontend\*\*
 
-# \### DevOps
 
-# 
 
-# \- Docker
+\- HTML
 
-# \- Dockerfile
+\- CSS
 
-# \- Amazon EC2
+\- JavaScript
 
-# \- Amazon ECR
 
-# \- AWS CLI
 
-# \- SSH
+\*\*DevOps\*\*
 
-# \- Git
 
-# 
 
-# \---
+\- Docker
 
-# 
+\- Amazon ECR
 
-# \## ☁️ Deploy
+\- Amazon EC2
 
-# 
+\- AWS CLI
 
-# A aplicação foi containerizada utilizando Docker e publicada na AWS.
+\- SSH
 
-# 
 
-# Fluxo utilizado:
 
-# 
+\---
 
-# ```text
 
-# GitHub
 
-# &#x20;   │
+\## ☁️ Deploy
 
-# Docker Build
 
-# &#x20;   │
 
-# Amazon ECR
+```
 
-# &#x20;   │
+GitHub
 
-# AWS EC2
+&#x20;   │
 
-# &#x20;   │
+Docker
 
-# Docker Container
+&#x20;   │
 
-# &#x20;   │
+Amazon ECR
 
-# Landing Page
+&#x20;   │
 
-# ```
+Amazon EC2
 
-# 
+&#x20;   │
 
-# \---
+🌐 Landing Page
 
-# 
+```
 
-# \## 📦 Executando localmente
 
-# 
 
-# ```bash
+\---
 
-# docker build -t wa-marmitex .
 
-# ```
 
-# 
+\## 📌 Roadmap
 
-# ```bash
 
-# docker run -d -p 80:80 wa-marmitex
 
-# ```
+\- ✅ Docker
 
-# 
+\- ✅ Amazon ECR
 
-# \---
+\- ✅ Amazon EC2
 
-# 
+\- 🔜 Terraform
 
-# \## 🎯 Roadmap
+\- 🔜 GitHub Actions
 
-# 
+\- 🔜 CI/CD
 
-# \### ✅ v1.0
 
-# 
 
-# \- \[x] Landing Page
+\---
 
-# \- \[x] Docker
 
-# \- \[x] Dockerfile
 
-# \- \[x] Amazon ECR
+\## 👨‍💻 Autor
 
-# \- \[x] Amazon EC2
 
-# \- \[x] Deploy Manual
 
-# 
-
-# \### 🚧 Próximas versões
-
-# 
-
-# \- \[ ] Terraform
-
-# \- \[ ] GitHub Actions
-
-# \- \[ ] CI/CD
-
-# \- \[ ] HTTPS
-
-# \- \[ ] Domínio
-
-# \- \[ ] CloudWatch
-
-# \- \[ ] Monitoramento
-
-# 
-
-# \---
-
-# 
-
-# \## 👨‍💻 Autor
-
-# 
-
-# Edilson Antonio dos Santos Junior
+\*\*Edilson Antonio dos Santos Junior\*\*
 
