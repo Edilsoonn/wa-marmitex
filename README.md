@@ -2,7 +2,7 @@
 
 Landing Page desenvolvida para o restaurante **W.A Marmitex**.
 
-Projeto utilizado como laboratório de estudos em **Docker, AWS, Terraform e CI/CD**.
+Projeto utilizado como laboratório para aplicar conceitos de Docker, AWS, Terraform e CI/CD em um ambiente real.
 
 <p align="center">
   <img src="docs/landing-page.png" alt="Landing Page" width="900">
